@@ -5,6 +5,8 @@ echo "This may take a while ..."
 
 # Regenerate configuration files.
 
+# Add a comment
+
 aclocal
 autoheader
 automake --include-deps --add-missing --copy 
