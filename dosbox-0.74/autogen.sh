@@ -6,6 +6,7 @@ echo "This may take a while..."
 # some changes
 # some merged changes
 
+
 # Regenerate configuration files.
 
 # Add a comment
