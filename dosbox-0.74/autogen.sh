@@ -1,7 +1,11 @@
 #!/bin/sh
 
 echo "Generating build information using aclocal, autoheader, automake and autoconf"
-echo "This may take a while ..."
+echo "This may take a while..."
+# some changes
+# some changes
+# some merged changes
+
 
 # Regenerate configuration files.
 
